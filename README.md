@@ -91,6 +91,7 @@ Repositório dedicado ao desenvolvimento de ferramentas e laboratórios prático
 | **Fernet Encryption** | Demonstração de criptografia simétrica de mensagens com Fernet. | Python |
 | **Web Scraper** | Extração de informações e links de páginas web utilizando Requests e BeautifulSoup. | Python |
 | **Intrusion Detection System (IDS)** | Projeto em planejamento para monitoramento e identificação de atividades suspeitas. | — |
+| **Detecção de Telemetria do Spyware Pegasus** | Pesquisa aplicada de Cibersegurança com Python e Categorical Naive Bayes para classificação de telemetria de rede e identificação de padrões associados a atividades maliciosas. O modelo alcançou **93,78% de Recall** no conjunto de teste, priorizando a identificação de ameaças para triagem em contexto de SOC. | Python|
 
 ### 🤖 Inteligência Artificial e Desenvolvimento
 
