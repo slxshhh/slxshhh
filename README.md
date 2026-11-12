@@ -100,6 +100,7 @@ Repositório dedicado ao desenvolvimento de ferramentas e laboratórios prático
 | **Escola Brilhante** | Jogo educativo interativo e gamificado baseado na ODS 4 (Educação de Qualidade), desenvolvido com React, TypeScript e Gemini AI. Possui cenários dinâmicos, avaliação de respostas com IA e mecanismo de fallback offline por heurísticas locais. | [Ver projeto](https://github.com/slxshhh/escolaBrilhante/blob/main) ||
 | **Engenharia Reversa com IA** | Reconstrução Full-Stack de aplicações a partir da descrição lógica e funcional assistida por IA generativa. | [Ver projeto](https://github.com/slxshhh/qr-code-styling/tree/main) |
 | **Desenvolvimento de MVP+** | Evolução de protótipo para produto autoral com integração Firebase, design personalizado e implementação de novos recursos funcionais. | [Ver projeto](https://github.com/slxshhh/scanly) |
+|**FoodFlow-RAG**|Assistente conversacional RAG corporativo construído com FastAPI, banco vetorial (ChromaDB) e Google Gemini. Implementa tratamento de falhas 503 e prompt engineering restritivo.|[Ver Projeto](https://github.com/slxshhh/-floodflow-rag)|
 
 ---
 
